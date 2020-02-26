@@ -1,6 +1,4 @@
-# Calculator
- 
-## References ##
+# References #
 
 https://simpligility.github.io/ksoap2-android/
 
